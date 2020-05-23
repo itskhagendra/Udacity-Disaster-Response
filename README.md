@@ -31,7 +31,7 @@ In this project, I apply skills I learned in Data Engineering Section to analyze
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-3. Go to http://0.0.0.0:3001/
+3. Go to http://127.0.0.1:5500/
 
 ![ScreenShot](DisasterResponse.png)
 
